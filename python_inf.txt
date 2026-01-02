@@ -1,0 +1,21 @@
+Python is a popular, high-level, interpreted programming language known for its simple, readable syntax, emphasizing code readability with significant indentation, supporting object-oriented, procedural, and functional paradigms, and used widely for web development, data science, AI, automation, and software development, running cross-platform (Windows, Mac, Linux) and featuring extensive libraries. Created by Guido van Rossum and released in 1991, it's free, open-source, and allows rapid development with fewer lines of code than many languages, as noted on Python Institute. 
+This video provides a full course for Python beginners:
+Related video thumbnail
+58s
+
+
+freeCodeCamp.org
+YouTube • 9 Aug 2022
+Key Characteristics
+Easy to Learn: English-like syntax reduces the cost of program maintenance and speeds up development.
+Versatile: Used for web apps (Django), data analysis, AI, automation, scripting, and more.
+Interpreted: Code runs directly without a separate compilation step, making testing fast.
+Dynamically Typed: Variable types are checked at runtime, offering flexibility.
+Cross-Platform: Works on Windows, macOS, Linux, and more.
+Extensive Libraries: Large standard library and third-party packages (NumPy, Pandas, TensorFlow) available. 
+What it's Used For
+Web Development: Backend (server-side) development with frameworks like Flask and Django.
+Data Science & AI: Data analysis, machine learning, and artificial intelligence.
+Automation: Automating repetitive tasks and creating scripts.
+Software Development: Building desktop apps, connecting systems, and rapid prototyping. 
+This video explains how Python can be used for various applications like AI and web development:
